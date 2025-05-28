@@ -8,7 +8,7 @@ public class Minecraft_Arrays_001 {
     public static void main(String[] args) {
         String[] nameInventory = {"Quartz block", "Spawnei", "Oak planks", "Diamond", "Scaffolding", "Raw beef", "Ladder", "Bamboo", "Iron grid"};
 
-        //Arrays für das Inventory deklarieren und initialisieren
+        //Declare and initialize arrays for the inventory
         int[] anzahlInventory_S1 = {51, 31, 18, 32, 19, 43, 34, 46, 49};
         int[] anzahlInventory_S2 = {1, 35, 12, 42, 9, 48, 44, 16, 29};
         int[] anzahlnventory_S3 = {12, 11, 22, 11, 19, 42, 34, 26, 32};
