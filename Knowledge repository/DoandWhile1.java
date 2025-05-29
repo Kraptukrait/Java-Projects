@@ -4,7 +4,7 @@
  * @author KraptuKrait
  */
 
-public class DoandWhile {
+public class DoandWhile1 {
 public static void main(String[] args) {
         int counter = 90;
         do {
