@@ -1,0 +1,39 @@
+package com.mycompany.Village;
+
+/**
+ *
+ * @author KraptuKrait
+ */
+public class Structure {
+
+    private String material;
+    private int number;
+
+    // Constructor
+    public Structure(String structureMaterial, int structureNumber) {
+        this.material = structureMaterial;
+        this.number = structureNumber;
+    }
+
+    // Getter method for material
+    public String getMaterial() {
+        return material;
+    }
+
+    // Getter method for number
+    public int getNumber() {
+        // number++;
+        return number;
+    }
+
+    // Setter method to change the material
+    public void setMaterial(String newMaterial) {
+        this.material = newMaterial;
+    }
+
+    // Setter method to change the number
+    public void setNumber(int newNumber) {
+        this.number = newNumber;
+    }
+
+}
