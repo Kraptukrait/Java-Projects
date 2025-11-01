@@ -22,13 +22,14 @@ public class Minecraft_Arrays_001 {
         statusInventory_S3[4] = true;
 
         /* 
-        ------------------------------Task------------------------------
+        ------------------------------Example------------------------------
         Change the arrays according to the following instructions and output the arrays again after each change:
         Player 1 roasts steaks from 5 times raw beef
         Player 2 uses 3 of his spawn eggs
         Player 3 builds a raft from 20 bamboo sticks
         Player 2 exchanges 5 of his diamonds for 20 oak planks from player 3
          */
+        
         // ------------Sample issues and changes-------------
         System.out.println("------------Sample issues and changes-------------");
 
